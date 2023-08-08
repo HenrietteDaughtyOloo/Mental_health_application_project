@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="create_your_password">Create your Password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="log_in">Log IN</string>
+    <string name="dont_have_an_account_sign_up">Dont have an account? Sign Up</string>
+</resources>
